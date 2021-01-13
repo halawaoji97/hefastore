@@ -1,0 +1,31 @@
+{
+    "your_cart": [
+        {
+            "id": "asd1293uasdads1",
+            "name": "Giordano II",
+            "img": "/img/cart/item1.png",
+            "alt": "Giordano II",
+            "price": 270000,
+            "match": 10,
+            "stock": 20
+        },
+        {
+            "id": "asd1293uasdads1",
+            "name": "Giordano II",
+            "img": "/img/cart/item1.png",
+            "alt": "Giordano II",
+            "price": 270000,
+            "match": 10,
+            "stock": 20
+        },
+        {
+            "id": "asd1293uasdads1",
+            "name": "Giordano II",
+            "img": "/img/cart/item1.png",
+            "alt": "Giordano II",
+            "price": 270000,
+            "match": 10,
+            "stock": 20
+        }
+    ]
+}

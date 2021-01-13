@@ -1,0 +1,78 @@
+{
+    "product_detail": [
+        {
+            "id": "asd1293uasdads1",
+            "name": "Giordano II",
+            "img": "/img/single/1.png",
+            "alt": "Giordano II",
+            "price": 270000,
+            "match": 10,
+            "stock": 20,
+            "designer": "/img/single/2.png",
+            "name_designer": "Anne Markjane",
+            "followers": 22.3,
+            "preview": [
+                {
+                    "id": "asd1293uasdads1",
+                    "img": "/img/single/thumbnail/1.png"
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "img": "/img/single/thumbnail/2.png"
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "img": "/img/single/thumbnail/3.png"
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "img": "/img/single/thumbnail/4.png"
+                }
+            ]
+        }
+    ],
+    "description": "<p>Minimal techno is a minimalist subgenre of techno music. It ischaracterized by a stripped-down aesthetic that exploits the use ofrepetition and understated development. Minimal techno is thought tohave been originally developed in the early 1990s by Detroit-basedproducers Robert Hood and Daniel Bell.</p><p>Such trends saw the demise of the soul-infused techno that typified theoriginal Detroit sound. Robert Hood has noted that he and Daniel Bellboth realized something was missing from techno in the post-rave era.</p><p>Design is a plan or specification for the construction of an object orsystem or for the implementation of an activity or process, or theresult of that plan or specification in the form of a prototype, productor process. The national agency for design: enabling Singapore to usedesign for economic growth and to make lives better.</p>",
+    "review": [
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/single/review/1.png",
+            "name": "Halawa Oji",
+            "text": "Barangnya bagus dan berkualitas, saya akan berbelanja lagi di sini"
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/single/review/2.png",
+            "name": "Ryan Brush",
+            "text": "Packing rapi dan proses pengiriman sangat cepat"
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/single/review/1.png",
+            "name": "Andre Jack",
+            "text": "Memang sudah tidak di ragukan lagi, kualitas barang sesuai deskripsi"
+        }
+    ],
+    "similar_product": [
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/single/similar/1.png",
+            "name": "Hatty Bomb",
+            "match": "Match 20%",
+            "price": 29000
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/single/similar/1.png",
+            "name": "Hatty Bomb",
+            "match": "Match 50%",
+            "price": 282000
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/single/similar/1.png",
+            "name": "Hatty Bomb",
+            "match": "Match 30%",
+            "price": 49000
+        }
+    ]
+}

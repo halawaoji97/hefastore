@@ -1,0 +1,158 @@
+{
+    "carousel": [
+        {
+            "firstSlide": {
+                "id": "asd1293uasdads1",
+                "img": "/img/slideshow/1.png",
+                "title": "Special Eid",
+                "caption": "Jadikan hari pertama lebaranmu meriah & memorable"
+            },
+            "secondSlide": {
+                "id": "asd1293uasdads1",
+                "img": "/img/slideshow/1.png",
+                "caption": "Jadikan hari pertama lebaranmu meriah & memorable"
+            },
+            "thirdSlide": {
+                "id": "asd1293uasdads1",
+                "img": "/img/slideshow/1.png",
+                "caption": "Jadikan hari pertama lebaranmu meriah & memorable"
+            }
+        }
+    ],
+    "special": [
+        {
+            "id": "asd1293uasdads1",
+            "title": "Special Eid",
+            "subheading": "Promo pakaian cocok untuk lebaran",
+            "iconDetail": "/img/detail.png",
+            "items": [
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Giordano II",
+                    "img": "/img/feature/1.png",
+                    "alt": "Giordano II",
+                    "price": 270000,
+                    "match": 10,
+                    "isPopular": true
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Giordano II",
+                    "img": "/img/feature/2.png",
+                    "alt": "Giordano II",
+                    "price": 270000,
+                    "match": 10,
+                    "isPopular": true
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Giordano II",
+                    "img": "/img/feature/3.png",
+                    "alt": "Giordano II",
+                    "price": 270000,
+                    "match": 10,
+                    "isPopular": true
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Giordano II",
+                    "img": "/img/feature/1.png",
+                    "alt": "Giordano II",
+                    "price": 270000,
+                    "match": 10,
+                    "isPopular": true
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Giordano II",
+                    "img": "/img/feature/2.png",
+                    "alt": "Giordano II",
+                    "price": 270000,
+                    "match": 10,
+                    "isPopular": true
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Giordano II",
+                    "img": "/img/feature/3.png",
+                    "alt": "Giordano II",
+                    "price": 270000,
+                    "match": 10,
+                    "isPopular": true
+                }
+            ]
+        }
+    ],
+    "designer": [
+        {
+            "id": "asd1293uasdads1",
+            "title": "Our Designer",
+            "subheading": "Pakaian terbaik dari designer profesional",
+            "items": [
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Halawa Oji",
+                    "img": "/img/designer/1.png",
+                    "alt": "Halawa Oji",
+                    "followers": 12.2,
+                    "profesi": "Artisctic"
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Jhon Marcus",
+                    "img": "/img/designer/1.png",
+                    "alt": "Jhon Marcus",
+                    "followers": 12.2,
+                    "profesi": "Artisctic"
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Ketty Markbyan",
+                    "img": "/img/designer/1.png",
+                    "alt": "Ketty Markbyan",
+                    "followers": 12.2,
+                    "profesi": "Artisctic"
+                },
+                {
+                    "id": "asd1293uasdads1",
+                    "name": "Janne Clara",
+                    "img": "/img/designer/1.png",
+                    "alt": "Janne Clara",
+                    "followers": 12.2,
+                    "profesi": "Artisctic"
+                }
+            ]
+        }
+    ],
+    "brands": [
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/brand/cc.png",
+            "name": "cc",
+            "alt": "cc"
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/brand/nike.png",
+            "name": "nike",
+            "alt": "nike"
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/brand/pnb.png",
+            "name": "pnb",
+            "alt": "pnb"
+        },
+        {
+            "id": "asd1293uasdads1",
+            "img": "/img/brand/uniqlo.png",
+            "name": "uniqlo",
+            "alt": "Nike"
+        }
+    ],
+    "icon": {
+        "fb": "img/social/fb.png",
+        "ig": "img/social/ig.png",
+        "twitter": "img/social/twitter.png"
+    }
+}
